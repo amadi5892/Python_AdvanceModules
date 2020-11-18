@@ -1,6 +1,6 @@
 # OS Modules
 import os
-import shutil
+# import shutil
 
 print(os.getcwd())
 print(os.listdir('D:\\Users'))
@@ -8,4 +8,4 @@ print(os.listdir('D:\\Users'))
 # f.write('This is a test string')
 # f.close()
 
-shutil.move('practice.txt','D:\Users\User\Desktop')
+# shutil.move('practice.txt','D:\Users\User\Desktop')
